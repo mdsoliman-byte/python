@@ -30,9 +30,13 @@
 shakil = list(("Shakil", "Alif", "Nayeem", "Shohel")) 
 age = list (("20","30", "10", "50")) #list data type 
 shakil2 = tuple(("Alif" ,"20", "Dhaka")) #tuple data type 
+shakiSet = set(("Shakil Set ", "40", "4.5")) #Set data type 
 # gratingPoint =  
 # its list type data type 
 
 print(type(shakil))
+
 print(age)
 print(type(shakil2))
+print(type(shakiSet))
+print(shakiSet)
